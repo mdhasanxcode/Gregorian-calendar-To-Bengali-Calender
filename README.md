@@ -47,7 +47,13 @@ To write this program I will do these following steps:
   (2.6) Now substract days_of_each_month
         till the number of days remains are
         less than the_number_of_days_present_in_next_month.
-        
         This will give us date and month of Bengali calender.
         
   (2.7) About year, if Months == 4 and date>13 then substract 593 Gregorian_Year year. Else substract 594.
+        Or, 
+        We can also find year by comparing total number of days.
+        If number_of_days_of_Gregorian_calendar_till_given_date > total_number_of_days_till_April 13
+        then we substract 593; else 594;
+       
+       
+*Feel Free to contribute if you can show me better way to do it! Thank you!!! <3*
