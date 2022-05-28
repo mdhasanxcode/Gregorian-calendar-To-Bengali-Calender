@@ -24,11 +24,11 @@ def DaysInGivenYear(d, m, y):
         tdays = monthDays[i] + tdays
         i += 1
 
-    tdays = tdays + d;
+    tdays = tdays + d
     return tdays
 
 
  if countLeapYears() == 1:
     monthDays[1] = monthDays[1] + 1
     bmonthdays[10] = bmonthdays[10] + 1
-
+    Aasdasd
