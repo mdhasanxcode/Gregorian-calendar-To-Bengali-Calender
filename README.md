@@ -1,4 +1,4 @@
-# Gregorian-calendar-To-Bengali-Calender
+# Gregorian-calendar-To-Bengali-Calendar
 
 The English calendar that we normally use is referred to as the Gregorian calendar 
 (https://en.wikipedia.org/wiki/Gregorian_calendar). In our country, we also have a  Bangla calendar.
